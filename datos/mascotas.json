@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "nombre": "Luna",
+    "especie": "Perro",
+    "descripcion": "Muy sociable, juguetona y tranquila con niños.",
+    "edad": 2,
+    "estado": "En adopción",
+    "imagen": "/img/mascota.svg"
+  },
+  {
+    "id": 2,
+    "nombre": "Milo",
+    "especie": "Gato",
+    "descripcion": "Cariñoso, curioso y muy atento a las personas.",
+    "edad": 1,
+    "estado": "Reservada",
+    "imagen": "/img/mascota.svg"
+  },
+  {
+    "id": 3,
+    "nombre": "Nala",
+    "especie": "Perro",
+    "descripcion": "Activa, obediente y ideal para paseos diarios.",
+    "edad": 4,
+    "estado": "En adopción",
+    "imagen": "/img/mascota.svg"
+  },
+  {
+    "id": 4,
+    "nombre": "Mochi",
+    "especie": "Gato",
+    "descripcion": "Aficionado a dormir al sol y seguir a su dueño.",
+    "edad": 3,
+    "estado": "Adoptada",
+    "imagen": "/img/mascota.svg"
+  },
+  {
+    "id": 5,
+    "nombre": "Coco",
+    "especie": "Conejo",
+    "descripcion": "Dulce, tranquilo y muy cómodo con espacios amplios.",
+    "edad": 1,
+    "estado": "En adopción",
+    "imagen": "/img/mascota.svg"
+  }
+]
